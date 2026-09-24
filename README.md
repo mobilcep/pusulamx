@@ -45,6 +45,12 @@ Kasada saniyeler kazandıran satış ekranı:
 - **Klavyeyle tam kontrol:** F1 Nakit · F2 Ürün ara · F3 Miktar · F4 Barkod · F5 Ödenen · F6 Veresiye · F7 Tam ekran · F8 Müşteri · F9 Kart · F10 Karma · F11/F12 İskonto
 - Classic ve Premium kasa görünümü
 
+### 🏷️ Fiyat Gör — müşteri ekranı
+Mağazadaki ikinci ekran ya da tablet için: **barkodu okutun, fiyat anında görünsün.** Ürün görseli,
+marka, stok kodu, kategori, stok adedi, KDV dahil satış fiyatı ve 2. fiyat (toptan) büyük ve net.
+
+![Pusulam Fiyat Gör müşteri ekranı](gorseller/fiyat-gor.png)
+
 ### 🤖 Numex AI — işletme asistanı *(beta)*
 *"İşletmenizin akıllı muhasebe asistanı · yalnızca sizin verinizi bilir."*
 - *"Kritik stoktaki ürünler hangileri?"*
