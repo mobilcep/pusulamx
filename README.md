@@ -49,7 +49,12 @@ Kasada saniyeler kazandıran satış ekranı:
 Mağazadaki ikinci ekran ya da tablet için: **barkodu okutun, fiyat anında görünsün.** Ürün görseli,
 marka, stok kodu, kategori, stok adedi, KDV dahil satış fiyatı ve 2. fiyat (toptan) büyük ve net.
 
-![Pusulam Fiyat Gör müşteri ekranı](gorseller/fiyat-gor.png)
+| Bekleme ekranı | Barkod okutulunca |
+|---|---|
+| ![Fiyat Gör — hoş geldiniz](gorseller/fiyat-gor-bekleme.png) | ![Fiyat Gör — ürün ve fiyat](gorseller/fiyat-gor.png) |
+
+Müşteri için 3 adım ekranda yazar: **① Barkodu okutun → ② Fiyatı görün → ③ Kasaya gidin.**
+Ekranda mağaza adı, tarih-saat ve *"Barkod bekleniyor…"* durumu görünür.
 
 ### 🤖 Numex AI — işletme asistanı *(beta)*
 *"İşletmenizin akıllı muhasebe asistanı · yalnızca sizin verinizi bilir."*
