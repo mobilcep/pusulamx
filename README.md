@@ -95,6 +95,15 @@ marka, stok kodu, kategori, stok adedi, KDV dahil satış fiyatı ve 2. fiyat (t
 Müşteri için 3 adım ekranda yazar: **① Barkodu okutun → ② Fiyatı görün → ③ Kasaya gidin.**
 Ekranda mağaza adı, tarih-saat ve *"Barkod bekleniyor…"* durumu görünür.
 
+### 🧾 Fatura & belge
+Satış/alış faturası ve teklif; **belge önizleme**den tek tıkla **Yazdır / PDF** veya **e-posta** ile
+gönder. Fatura üzerinde işletme logosu ve bilgileri, müşteri, kalem kalem KDV, ara toplam, genel
+toplam, **ödeme durumu** (ör. açık hesap / veresiye) ve not. Altta **IBAN ve ödeme QR kodu** —
+müşteri telefonuyla okutup öder. İade/değişim notu gibi alt bilgi metinleri özelleştirilebilir.
+e-Fatura / e-Arşiv için entegratör API (Nilvera) kullanılır.
+
+<img src="gorseller/fatura.png" alt="Pusulam fatura önizleme" width="520">
+
 ### 🤖 Numex AI — işletme asistanı *(beta)*
 *"İşletmenizin akıllı muhasebe asistanı · yalnızca sizin verinizi bilir."*
 - *"Kritik stoktaki ürünler hangileri?"*
